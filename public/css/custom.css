@@ -1,0 +1,19 @@
+.grid-item-holder {
+    padding-top: 90%;
+}
+
+.video-info {
+    position: absolute;
+    inset: 0;
+    height: 75%;
+}
+
+.thumb-info {
+    position: absolute !important;
+    bottom: 0 !important;
+    left: 0 !important;
+}
+
+.video-info img {
+    height: 100%;
+}
